@@ -3,7 +3,7 @@
 
 O corpo da mensagem.
 
-<x-mail::button :url="''">
+<x-mail::button :url= "''">
 Enviar
 </x-mail::button>
 
